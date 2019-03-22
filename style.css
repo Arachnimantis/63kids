@@ -109,7 +109,7 @@ a:hover
 a:active
 {
 	opacity:0.8;
-	background:img/alchemylabBackground.png;
+	background:(img/alchemylabBackground.png);
 }
 
 .inset
